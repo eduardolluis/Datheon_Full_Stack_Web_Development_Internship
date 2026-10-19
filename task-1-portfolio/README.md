@@ -4,4 +4,4 @@ Personal portfolio website developed as part of
 the Datheon Full Stack Web Development Internship.
 
 ## Live Demo
-https://eduardo-portfolio-neon-two.vercel.app/
+https://portfolio-one-blue-anckqnppbh.vercel.app/
