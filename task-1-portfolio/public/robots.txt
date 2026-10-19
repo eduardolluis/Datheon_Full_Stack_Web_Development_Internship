@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portfolio-one-blue-anckqnppbh.vercel.app/sitemap.xml
